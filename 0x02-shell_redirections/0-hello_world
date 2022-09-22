@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '"Hello, World"' > my world | head -n 1 my world
+echo "Hello, World"
